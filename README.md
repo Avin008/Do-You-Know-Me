@@ -1,6 +1,6 @@
 # Do-You-Know-Me
  
-It's a web based quiz about how much you know me. - Avinash Mahananda(Developer)
+It's a web based quiz about how much you know me. - Avinash Mahananda
 
 # How to use:
 Step.1 Enter your Name.
